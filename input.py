@@ -1,0 +1,7 @@
+nama_pengunjung = input ("Siapa Nama Kamu? \n") 
+print(" Hi " + nama_pengunjung)
+print("=" * 10)
+umur_pengunjung = input ("Masukan umur dari " + nama_pengunjung+"\n")
+print("=" * 10)
+print (" nama "+nama_pengunjung)
+print (" umur "+umur_pengunjung)
